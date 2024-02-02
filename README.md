@@ -3,9 +3,14 @@
 Soy **Elias Daniel** (aka drm), desarrollador web y de juegos full-stack de Santo Domingo, República Dominicana,
 enfocado en aprender y crear soluciones mejores.
 
-<a href="mailto:daniel@g3deon.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=gmail" />
-</a>
+<div>
+    <a href="mailto:daniel@g3deon.com" target="_blank">
+        <img src="https://img.shields.io/badge/email-grey?logo=gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/eliasdrm/" target="_blank">
+        <img src="https://img.shields.io/badge/email-grey?logo=linkedin" />
+    </a>
+</div>
 
 ## Experiencia
 
