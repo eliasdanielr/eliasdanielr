@@ -1,6 +1,11 @@
 # Hola a todos
 
-Soy **Elias Daniel** (aka drm), desarrollador web y de juegos full-stack de Santo Domingo, República Dominicana, enfocado en aprender y crear soluciones mejores.
+Soy **Elias Daniel** (aka drm), desarrollador web y de juegos full-stack de Santo Domingo, República Dominicana,
+enfocado en aprender y crear soluciones mejores.
+
+<a href="mailto:daniel@g3deon.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=gmail" />
+</a>
 
 ## Experiencia
 
@@ -10,19 +15,19 @@ Soy **Elias Daniel** (aka drm), desarrollador web y de juegos full-stack de Sant
 
 ## Habilidades:
 
-### Back-end & Bases de datos: 
+### Back-end & Bases de datos:
 <img src="https://skillicons.dev/icons?i=go,py,fastapi,django" alt="Skills">
 
-### Front-end: 
+### Front-end:
 <img src="https://skillicons.dev/icons?i=ts,js,tailwind,react,nextjs," alt="Skills">
 
-### Desarrollo de Juegos: 
+### Desarrollo de Juegos:
 <img src="https://skillicons.dev/icons?i=lua,cs,cpp" alt="Skills">
 
-### Bases de datos: 
+### Bases de datos:
 <img src="https://skillicons.dev/icons?i=redis,mongodb,mysql," alt="Skills">
 
-### General: 
+### General:
 <img src="https://skillicons.dev/icons?i=git,bash,aws,docker" alt="Skills">
 
 ## Certificados
