@@ -5,10 +5,10 @@ enfocado en aprender y crear soluciones mejores.
 
 <div>
     <a href="mailto:daniel@g3deon.com" target="_blank">
-        <img src="https://img.shields.io/badge/email-grey?logo=gmail" />
+        <img src="https://img.shields.io/badge/Email-grey?logo=gmail" />
     </a>
     <a href="https://www.linkedin.com/in/eliasdrm/" target="_blank">
-        <img src="https://img.shields.io/badge/email-grey?logo=linkedin" />
+        <img src="https://img.shields.io/badge/LinkedIn-grey?logo=linkedin" />
     </a>
 </div>
 
