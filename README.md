@@ -7,7 +7,7 @@ enfocado en aprender y crear soluciones mejores.
     <a href="mailto:daniel@g3deon.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-grey?logo=gmail" />
     </a>
-    <a href="https://www.linkedin.com/in/eliasdrm/" target="_blank">
+    <a href="https://www.linkedin.com/in/eliasdanielr/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-grey?logo=linkedin" />
     </a>
 </div>
